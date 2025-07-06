@@ -1,0 +1,6 @@
+{
+  "name": "Corso Interattivo Cinofilo",
+  "description": "Un'applicazione web interattiva per un corso di educazione cinofila, trasformando i capitoli di un manuale in moduli di apprendimento con quiz. Questa versione iniziale contiene il primo capitolo sulla relazione uomo-cane.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
